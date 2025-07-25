@@ -1,4 +1,6 @@
 BELAJAR GIT
 - Konsisten untuk belajar GIT di YT WPU
 - setiap 2x seminggu
-- Belajar commit
+- vidio 1 sudah selesai
+- vidio 2 sudah selesai
+- vidio 3 sudah selesai
